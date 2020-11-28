@@ -1,8 +1,8 @@
-package com.philipt.nearby.utils;
+package com.ptong.nearby.utils;
 
 import java.util.Random;
 
-import com.philipt.nearby.model.Location;
+import com.ptong.nearby.model.Location;
 
 public class Generator {
 

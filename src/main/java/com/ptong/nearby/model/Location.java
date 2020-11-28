@@ -1,4 +1,4 @@
-package com.philipt.nearby.model;
+package com.ptong.nearby.model;
 
 import lombok.Data;
 
